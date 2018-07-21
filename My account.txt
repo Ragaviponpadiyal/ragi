@@ -1,0 +1,25 @@
+\\\\\<html>
+<body>
+<h1>LOGIN HERE</h1>
+<form action="/action_page.php">
+First Name:<br>
+<input type="text" name="firstname" value=" eg:John">
+<br>
+<img src="C:\Users\Pandu\Desktop\web designing\5terre.jpg" alt="Cinque Terre" width="300" height="200">
+
+Email:<br>
+<input type="text" name="email" value=" eg:john@gmail.com">
+<br>
+Password:<br>
+<input type="text" name="password" value="Enter password in text">
+<br>
+  
+<br>
+
+  
+<input type="submit" value="Login">
+
+  
+</form>
+</body>
+</html>
